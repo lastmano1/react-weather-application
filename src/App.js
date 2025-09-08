@@ -81,7 +81,7 @@ function App() {
         {isLoading && <LoadingIndicator />}
         {display}
       </div>
-      <span className="credit">Ranvir@zetabug/github</span>
+      <span className="credit">Tanishq kumar</span>
     </>
   );
 }
